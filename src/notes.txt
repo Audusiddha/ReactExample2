@@ -1,0 +1,18 @@
+State:The state is a bulit-in React object that is used to contain data or inforation about componet.A componet's state can change over time;Whenever it change the componet is rerender
+13/02/23
+2//useEffect : It is a hook used to perform side effect in our application.
+sideeffect as the name says its the sideeffect or of consequences of something else.
+like medicine --- has  a intended effect
+byproduct of  that effect, you get some side effect
+
+like doing yoga is a sideeffect to lead a healthy life.
+
+** side effect in code is  as well same
+something happens in our app, somethingchanges, something gets
+triggered
+
+In most application side effect could be out of state change.
+change from on value to other, which you can control.
+
+
+//UseRef:Controlled and manage a thing in react by using  UseRef
